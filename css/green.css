@@ -750,7 +750,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer {
-  padding: 50px 0;
+  padding: 25px 0;
   color: #7f7f7f;
 }
 #footer .copyright {
@@ -975,7 +975,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .owl-carousel-fullwidth .item, .owl-carousel-fullwidth .fh5co-owl-text-wrap {
-  height: 800px;
+  height: 660px;
   display: table;
   width: 100%;
 }
@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 30px;
   line-height: 42px;
   font-weight: 100;
