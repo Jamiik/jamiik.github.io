@@ -1,5 +1,5 @@
 .jamiik-img-border {
-	border-color: black;
+	border-color: rgb(171, 149, 58);
     border-top-width: thick;
 	border-top-style: solid;
 	border-left-width: thick;
@@ -8,4 +8,9 @@
 	border-right-style: solid;
 	border-bottom-width: thick;
 	border-bottom-style: solid;
+}
+
+.jamiik-section{
+    padding-top: 50px;
+    padding-bottom: 0;
 }
